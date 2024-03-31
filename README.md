@@ -1,5 +1,5 @@
 # 💫 About Me: <img align="right" height="150" src="https://asamasterson.com/github/readme/IMG_20231206_194738_897-modified.png"  />
-🌱 I’m currently learning flutter.<br>💬 Ask me about https://pigsare.pink<br>🔭 I’m currently working on a notepad app in flutter.<br><br>📫 How to reach me: oink@pigsare.pink
+🌱 I’m currently learning flutter.<br>💬 Ask me about [project-oink](https://github.com/asa-masterson/project-oink)<br>🔭 I’m currently working on a notepad app in flutter.<br><br>📫 How to reach me: oink@pigsare.pink
 
 
 ## 🌐 Socials:
